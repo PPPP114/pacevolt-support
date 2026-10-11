@@ -2,6 +2,8 @@
 title: PaceVolt — Política de Privacidade
 ---
 
+[Português](#política-de-privacidade--pacevolt) · [English](#privacy-policy--pacevolt)
+
 # Política de Privacidade — PaceVolt
 
 Última atualização: 11 de outubro de 2026
@@ -101,3 +103,105 @@ Não adicionámos ferramentas próprias de publicidade ou análise de visitantes
 Esta política pode ser atualizada para refletir alterações na app ou nos serviços utilizados. A data da versão mais recente será indicada nesta página.
 
 [Voltar à página de suporte](./)
+
+---
+
+# Privacy Policy — PaceVolt
+
+Last updated: October 11, 2026
+
+## 1. Developer and contact
+
+PaceVolt is developed by Pedro Miguel Lopes Pinto.
+
+For privacy questions or requests concerning your data, contact:  
+[pacevolt.support@gmail.com](mailto:pacevolt.support@gmail.com)
+
+## 2. Data used by the app
+
+PaceVolt uses your device’s location to calculate speed, distance, routes and GPS performance test results.
+
+Depending on the features you use, the app may store on your device:
+- Trips, routes, dates and test results.
+- Vehicle details you enter.
+- Favorites, preferences, trip costs and observed speed limits.
+- Technical diagnostic data when you use that feature.
+
+The app does not require its own user account and does not include advertising or usage analytics SDKs. Trip and test records are not automatically sent to the developer.
+
+## 3. Permissions and controls
+
+You can manage location permission in your iPhone settings. Without this permission, GPS measurement features are limited or unavailable.
+
+In the app’s privacy settings, you can disable saving new records, export local data and delete personal data stored by the app. Disabling saving does not delete existing records.
+
+## 4. Online services and maps
+
+Online road information and address services are disabled by default.
+
+If you enable them, the app may send coordinates or the requested geographic area to Apple services and Overpass servers to obtain addresses and road information. These providers also receive technical connection data, including your IP address.
+
+The Overpass servers used include:
+- overpass-api.de
+- overpass.private.coffee
+
+Displaying maps through Apple MapKit may involve communication with Apple even when optional road information and address services are disabled.
+
+If you download offline regions, the server providing the files receives technical connection data.
+
+Further information:
+- [Apple Maps and Privacy](https://www.apple.com/legal/privacy/data/en/apple-maps/)
+- [Information about overpass-api.de](https://overpass-api.de/)
+- [Private.coffee Privacy Policy](https://private.coffee/privacy.html)
+
+Disabling optional services prevents new requests from that feature but does not delete information already received by providers.
+
+## 5. Purchases
+
+Purchases of the Pro upgrade are processed by Apple. PaceVolt uses transaction and purchase entitlement information to provide and restore Pro features.
+
+The developer does not receive your payment card details through the app.
+
+## 6. Exporting and sharing
+
+You share data when you choose to export or send a file.
+
+Exported files may contain sensitive information, including locations, routes and dates. Review their contents before sharing. Copies you send are subject to the recipient’s or selected service’s terms and privacy practices.
+
+## 7. Retention and deletion
+
+Saved records remain on your device until you delete them.
+
+Road information caches have a validity period of 90 days. Temporary export files are subject to cleanup when the app opens and the files are more than 24 hours old.
+
+Deleting data within the app does not delete previously shared copies or device backups.
+
+## 8. Support communications
+
+If you email support, the developer receives your email address, message and any attachments you choose to send. This information is used to respond to your request and resolve the issue, for as long as necessary for those purposes and to meet applicable legal obligations.
+
+Support email is hosted on Gmail and is subject to [Google’s Privacy Policy](https://policies.google.com/privacy).
+
+Do not send passwords, verification codes or unnecessary personal information.
+
+## 9. Purposes and your rights
+
+Data is used to provide the features you request and respond to support requests. Optional online services depend on your activation and can be disabled at any time.
+
+Where applicable, you may exercise your rights of access, correction, deletion, restriction, objection and portability, and withdraw consent, using the contact above.
+
+The developer cannot remotely access records stored exclusively on your device. For those records, use the app’s export and deletion options.
+
+You may lodge a complaint with the [Portuguese Data Protection Authority — CNPD](https://www.cnpd.pt/).
+
+## 10. Support website
+
+The support website is hosted on GitHub Pages. GitHub may process technical access data, including IP addresses, under its [Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement).
+
+We have not added our own advertising or visitor analytics tools to the page.
+
+## 11. Changes
+
+This policy may be updated to reflect changes to the app or services used. The date of the latest version will appear on this page.
+
+[Back to support](./)
