@@ -53,3 +53,7 @@ Email the address above with the requested details. Never send passwords or veri
 Configura a app antes de iniciar a condução. Não interajas com o iPhone enquanto conduzes. Realiza testes de desempenho apenas em locais apropriados, com condições de segurança e respeitando as regras aplicáveis.
 
 Set up the app before driving. Do not interact with your iPhone while driving. Perform performance tests only in suitable locations, under safe conditions and in accordance with applicable rules.
+
+## Privacidade / Privacy
+
+[Política de Privacidade](privacy.html)
